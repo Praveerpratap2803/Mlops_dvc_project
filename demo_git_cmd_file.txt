@@ -19,3 +19,7 @@ git merge <branch> – Merge branches
 git push – Push changes to remote
 
 git pull – Fetch and merge changes
+
+
+Applying changes in branch1
+
