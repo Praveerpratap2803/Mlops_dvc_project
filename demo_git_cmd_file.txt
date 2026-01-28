@@ -1,0 +1,21 @@
+Git Commands
+
+git init – Initialize a repository
+
+git status – Check repository status
+
+git add <file> – Stage changes
+
+git commit -m "message" – Commit changes
+
+git log – View commit history
+
+git branch – List branches
+
+git checkout <branch> – Switch branches
+
+git merge <branch> – Merge branches
+
+git push – Push changes to remote
+
+git pull – Fetch and merge changes
