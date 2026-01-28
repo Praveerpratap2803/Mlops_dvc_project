@@ -23,3 +23,5 @@ git pull – Fetch and merge changes
 
 Applying changes in branch1
 
+Applying chances in branch2
+
